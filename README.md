@@ -1,1 +1,1 @@
-# daily-photo-prune
+# daily-photo-pruner
